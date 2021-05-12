@@ -1,0 +1,12 @@
+pandas
+matplotlib
+numpy
+scipy
+plotly
+ipykernel==5.3.4
+ipython==7.18.1
+nbformat>=4.2.0 
+nltk
+gensim==3.4.0
+pattern==2.6
+pyldavis
