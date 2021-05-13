@@ -8,5 +8,10 @@ ipython==7.18.1
 nbformat>=4.2.0 
 nltk
 gensim==3.4.0
-pattern==2.6
-pyldavis
+#pattern==2.6
+pyldavis== 3.2.2 
+#setuptools wheel
+#spacy==3.0
+rouge
+sentence-transformers
+ipywidgets
